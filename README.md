@@ -1,9 +1,9 @@
-### Hi there 👋
+
 
 <!--
 **deepsingh132/deepsingh132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there I am Hack Baba 👋
+### Hi there I am Hack Baba ✋
 
 [![Linkedin Badge](https://img.shields.io/badge/-PulkitMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/deepsingh132)](https://www.linkedin.com/in/deepsingh132/)
 [![Twitter Badge](http://img.shields.io/badge/-@midopooler-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/midopooler)](https://twitter.com/hackbaba) 
@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on Machine Learning 
-- 🌱 I’m currently learning Computer Vision and 
+- 🌱 I’m currently learning Computer Vision and Tensorflow
 - 👯 I’m looking to collaborate on Open-Source Projects
 - 🤔 I’m looking for help with OpenCV.
 - 💬 Ask me about Firebase 
@@ -25,11 +25,10 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXkOx99Z3_nlY3rJ9dZQ-9Xgyw52ch3_SFjA&usqp=CAU"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/google-arcore-2038787-1721677.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoUiBESJGDJXAyWhFdXjlLIjyeW0Kqwkj9Ug&usqp=CAU"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
