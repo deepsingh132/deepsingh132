@@ -1,17 +1,10 @@
+### Hi there, I am Hack Baba #Kirpa Barsegi ✋
 
+[![Linkedin Badge](https://img.shields.io/badge/-MandeepSingh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/deepsingh132)](https://www.linkedin.com/in/deepsingh132/)
+[![Twitter Badge](http://img.shields.io/badge/-@HackBaba-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackbaba132)](https://twitter.com/hackbaba) 
+[![Medium Badge](https://img.shields.io/badge/-@HackBaba-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@hackbaba132)](https://medium.com/@hackbaba)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mandeeparora132@gmail.com)](mailto:mandeeparora132@gmail.com)
 
-<!--
-**deepsingh132/deepsingh132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there I am Hack Baba ✋
-
-[![Linkedin Badge](https://img.shields.io/badge/-PulkitMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/deepsingh132)](https://www.linkedin.com/in/deepsingh132/)
-[![Twitter Badge](http://img.shields.io/badge/-@midopooler-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/midopooler)](https://twitter.com/hackbaba) 
-[![Medium Badge](https://img.shields.io/badge/-@midhapulkit-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@hackbaba)](https://medium.com/@hackbaba)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mandeeparora132@gmail.com)](mailto:mandeeparora132@gmail.com)
-<!--
-**midopooler/midopooler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=midopooler.midopooler) -->
 
 
 - 🔭 I’m currently working on Machine Learning 
@@ -33,3 +26,5 @@
 
 
 ![Mandeep's github stats](https://github-readme-stats.vercel.app/api?username=deepsingh132&show_icons=true&hide_border=true)
+
+![](https://visitor-badge.glitch.me/badge?page_id=deepsingh132) 
