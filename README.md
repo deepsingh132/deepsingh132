@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on Machine Learning 
 - 🌱 I’m currently learning Computer Vision and Tensorflow
 - 👯 I’m looking to collaborate on Open-Source Projects
-- 🤔 I’m looking for help with OpenCV.
-- 💬 Ask me about Firebase 
+- 🤔 I’m looking for help with OpenCV and TFLite
+- 💬 Ask me about Firebase 🔥
 - 📫 How to reach me: https://deepsingh132.github.io/
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I love using open source software, and developing as well. :p
