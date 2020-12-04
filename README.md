@@ -35,4 +35,6 @@
 
 ![Mandeep's github stats](https://github-readme-stats.vercel.app/api?username=deepsingh132&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&title_color=00ffff&icon_color=2ecc71&text_color=40E0D0&hide=stars)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsingh132&theme=tokyonight&langs_count=5&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=deepsingh132) 
