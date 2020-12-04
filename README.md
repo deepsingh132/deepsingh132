@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on Machine Learning 
+- 🔭 I’m currently working on Machine Learning and Open Source
 - 🌱 I’m currently learning Computer Vision and Tensorflow
 - 👯 I’m looking to collaborate on Open-Source Projects
 - 🤔 I’m looking for help with OpenCV and TFLite
@@ -33,6 +33,6 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png"></code>
 
 
-![Mandeep's github stats](https://github-readme-stats.vercel.app/api?username=deepsingh132&show_icons=true&hide_border=true)
+![Mandeep's github stats](https://github-readme-stats.vercel.app/api?username=deepsingh132&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&title_color=00ffff&icon_color=2ecc71&text_color=40E0D0&hide=stars)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=deepsingh132) 
