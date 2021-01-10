@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-MandeepSingh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/deepsingh132)](https://www.linkedin.com/in/deepsingh132/)
 [![Twitter Badge](http://img.shields.io/badge/-@HackBaba-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackbaba132)](https://twitter.com/hackbaba) 
-[![Medium Badge](https://img.shields.io/badge/-@HackBaba-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@hackbaba132)](https://medium.com/@hackbaba)
+<!--[![Medium Badge](https://img.shields.io/badge/-@HackBaba-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@hackbaba132)](https://medium.com/@hackbaba)-->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mandeeparora132@gmail.com)](mailto:mandeeparora132@gmail.com)
 
 
@@ -37,4 +37,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsingh132&theme=tokyonight&langs_count=5&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://visitor-badge.glitch.me/badge?page_id=deepsingh132) 
+<!--![](https://visitor-badge.glitch.me/badge?page_id=deepsingh132) -->
