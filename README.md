@@ -1,4 +1,4 @@
-### Hi there, I am Hack Baba #Kirpa Barsegi ✋
+### Hi there, I am Hack Baba ✋
 
 
 
