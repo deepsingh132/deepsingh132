@@ -39,6 +39,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsingh132&theme=tokyonight&langs_count=5&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Lhd Update Profile](https://media1.tenor.com/images/907ca4314bc8af09f6c3ca5719d60f7e/tenor.gif)
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=deepsingh132) -->
