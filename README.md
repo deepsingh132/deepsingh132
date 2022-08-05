@@ -3,7 +3,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MandeepSingh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/deepsingh132)](https://www.linkedin.com/in/deepsingh132/)
-[![Twitter Badge](http://img.shields.io/badge/-@HackBaba-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackbaba132)](https://twitter.com/hackbaba) 
+[![Twitter Badge](http://img.shields.io/badge/-@HackBaba-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackbaba132)](https://twitter.com/thehackbaba132) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mandeeparora132@gmail.com)](mailto:mandeeparora132@gmail.com)
 <!--[![Medium Badge](https://img.shields.io/badge/-@HackBaba-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@hackbaba132)](https://medium.com/@hackbaba)-->
 
