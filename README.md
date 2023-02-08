@@ -14,7 +14,6 @@
 - 🤔 I’m looking for help with OpenCV and TFLite
 - 💬 Ask me about Firebase 🔥
 - 📫 How to reach me: https://deepsingh132.github.io/
-- 😄 Pronouns: him/he
 - ⚡ Fun fact: I love using open source software, and developing as well. :p
 
 **Languages and Tools:**  
