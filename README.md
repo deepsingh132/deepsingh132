@@ -59,6 +59,7 @@
 
 ## Latest Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepsingh132&repo=artsphere&show_owner=true)](https://github.com/deepsingh132/artsphere)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepsingh132&repo=booksby&show_owner=true)](https://github.com/deepsingh132/booksby)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepsingh132&repo=cuchat&show_owner=true)](https://github.com/deepsingh132/cuchat)
 
