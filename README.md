@@ -16,11 +16,11 @@
   
 ## About me
 
-- 🔭 I’m currently working on React, NextJS and Front-end Development
-- 🌱 I’m currently learning Computer Vision and Tensorflow
+- 🔭 I’m currently working on React, NextJS and Full-stack Development
+- 🌱 I’m currently learning Neural networks and Tensorflow
 - 👯 I’m looking to collaborate on Open-Source Projects
-- 🤔 I’m looking for help with NextJS 13 & GraphQL
-- 💬 Ask me about Firebase, MongoDB & Nodejs 
+- 🤔 I’m looking for help with NextJS 15 & GraphQL
+- 💬 Ask me about React & Nodejs 
 - 📫 How to reach me: https://deepsingh132.github.io/
 - ⚡ Fun fact: I love using open-source software and developing as well :)
 
@@ -59,6 +59,7 @@
 
 ## Latest Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepsingh132&repo=aionair&show_owner=true)](https://github.com/deepsingh132/aionair)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepsingh132&repo=artsphere&show_owner=true)](https://github.com/deepsingh132/artsphere)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepsingh132&repo=booksby&show_owner=true)](https://github.com/deepsingh132/booksby)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepsingh132&repo=cuchat&show_owner=true)](https://github.com/deepsingh132/cuchat)
