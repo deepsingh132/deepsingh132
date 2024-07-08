@@ -7,6 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MandeepSingh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/deepsingh132)](https://www.linkedin.com/in/deepsingh132/)
 <!--[![Twitter Badge](http://img.shields.io/badge/-@HackBaba-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackbaba132)](https://twitter.com/thehackbaba132) -->
 <!--[![Medium Badge](https://img.shields.io/badge/-@HackBaba-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@hackbaba132)](https://medium.com/@hackbaba)-->
+ [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/deepsingh132)
 
 </div>
 
