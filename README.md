@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I am Mandeep ✋
+# Hi there, I am Mandeep 👋
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mandeeparora132@gmail.com)](mailto:mandeeparora132@gmail.com)
